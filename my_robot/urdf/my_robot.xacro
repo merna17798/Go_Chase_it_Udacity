@@ -10,7 +10,7 @@
     <child link="chassis" />
   </joint>
 <gazebo reference="chassis">
-    <material>Gazebo/Blue</material>
+    <material>Gazebo/Yellow</material>
 </gazebo>
   <link name='chassis'>
     <pose>0 0 0.1 0 0 0</pose>
